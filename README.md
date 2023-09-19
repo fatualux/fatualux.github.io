@@ -5,8 +5,8 @@ Clone this repository, then run:
 
 > sh install.sh
 
-To build the site, move to the directory containing the site you want to build and run:
+To build and serve the site, move into your Nikola site's directory and run:
 
-> sh run.sh
+> docker run -v $(pwd) -it dockola
 
 Done!
