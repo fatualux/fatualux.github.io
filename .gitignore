@@ -1,5 +1,4 @@
 # .gitignore
 
 # Nikola files directory
-./nikola/*
-./nikola/.*
+./nikola/
