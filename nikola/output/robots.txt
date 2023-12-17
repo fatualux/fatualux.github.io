@@ -1,0 +1,4 @@
+Sitemap: https://www.v-caos.iceiy.com/sitemapindex.xml
+
+User-Agent: *
+Host: www.v-caos.iceiy.com
