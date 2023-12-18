@@ -1,7 +1,4 @@
 # .gitignore
 
-# Nikola files directory
-NIKOLA/
-
 # My scripts for automating site building
 SCRIPTS/
