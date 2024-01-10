@@ -4,39 +4,44 @@ Simplest Docker image for building a static website with [Nikola](https://github
 
 You only need a bash-compatible shell.
 
-Clone this repository, then run:
+Clone this repository, and put it in a directory containing a Nikola site.
+
+- To view Nikola's help page, run:
+```
+sh nikola.sh
+```
+
+To build the site, run:
+```
+sh build.sh
 
 ```
-> sh install.sh
-```
 
-To build and serve the site, move into your Nikola site's directory and run:
-
+To build and serve a site, automatically detecting site changes, run:
 ```
-docker run -v $(pwd) -it dockola
+sh serve.sh
 ```
 
 Done!
 
-## License
+## DEPENDENCIES
 
-Copyright (C) 2023 fatualux, Valerio Bozzolan, contributors
+- bash
+- docker
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+## CONTRIBUTORS
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+- Fatualux
+- Bozzy
 
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
+## ACKNOWLEDGMENTS
 
-Note that Nikola and Python are also Free software. Credits:
+This is a WIP project... Stay tuned!
 
-https://github.com/getnikola/nikola
 
-https://docs.python.org/license.html
+## LICENSE
+
+[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+
+This project is licensed under the GPLv3 license.
+See LICENSE file for more details.
