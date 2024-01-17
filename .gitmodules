@@ -1,0 +1,3 @@
+[submodule "fatualux.github.io/themes/coder"]
+	path = fatualux.github.io/themes/coder
+	url = https://github.com/luizdepra/hugo-coder.git
