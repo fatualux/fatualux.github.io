@@ -6,6 +6,56 @@
     <description>Recent content in Tags on Francesco Zubani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.example.com/it-it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>css</title>
+      <link>http://www.example.com/it-it/tags/css/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/it-it/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>html</title>
+      <link>http://www.example.com/it-it/tags/html/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/it-it/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hugo</title>
+      <link>http://www.example.com/it-it/tags/hugo/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/it-it/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>markdown</title>
+      <link>http://www.example.com/it-it/tags/markdown/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/it-it/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>shortcodes</title>
+      <link>http://www.example.com/it-it/tags/shortcodes/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/it-it/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>emoji</title>
+      <link>http://www.example.com/it-it/tags/emoji/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/it-it/tags/emoji/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>text</title>
+      <link>http://www.example.com/it-it/tags/text/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/it-it/tags/text/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

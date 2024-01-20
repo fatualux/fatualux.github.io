@@ -15,12 +15,5 @@
       <guid>http://www.example.com/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Texto de Exemplo</title>
-      <link>http://www.example.com/posts/placeholder-text.pt-br/</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/placeholder-text.pt-br/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

@@ -15,12 +15,5 @@
       <guid>http://www.example.com/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Suporte a Emojis</title>
-      <link>http://www.example.com/posts/emoji-support.pt-br/</link>
-      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/emoji-support.pt-br/</guid>
-      <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
