@@ -3,4 +3,4 @@ title = "Projects"
 slug = "projects"
 +++
 
-Nothing to see here... Move along!
+[IT-Notes](https://fatualux.github.io/it-notes/)
