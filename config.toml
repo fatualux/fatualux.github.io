@@ -93,11 +93,6 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.en.menu.main]]
 name = "Projects"
 weight = 3
 url = "projects/"
@@ -121,11 +116,6 @@ keywords = "blog, profilo, curriculum"
 name = "About"
 weight = 1
 url = "about/"
-
-[[languages.it-it.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
 
 [[languages.it-it.menu.main]]
 name = "Progetti"
