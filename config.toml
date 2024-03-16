@@ -15,7 +15,7 @@ noClasses = false
 author = "Francesco Zubani"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Francesco Zubani's personal website"
-keywords = "blog,developer,personal"
+keywords = "developer,personal"
 info = ["Personal profile", " and projects"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "@fatualux"
@@ -110,7 +110,7 @@ title = "Francesco Zubani"
 author = "Francesco Zubani"
 info = ["Profilo personale", " e progetti"]
 description = "Profilo web di Francesco Zubani"
-keywords = "blog, profilo, curriculum"
+keywords = "profilo, curriculum"
 
 [[languages.it-it.menu.main]]
 name = "About"
