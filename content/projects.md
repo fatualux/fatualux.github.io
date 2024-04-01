@@ -8,3 +8,5 @@ slug = "projects"
 [![Git-Helper](../../images/githelper.png)](https://github.com/fatualux/git_helper/)
 
 [![ScrappyBot](../../images/scrappybot.png)](https://gitlab.com/fatualux/scrappybot)
+
+[![Pygen-Calendar](../../images/pygen_cal.png)](https://gitlab.com/fatualux/pygen_calendar)
