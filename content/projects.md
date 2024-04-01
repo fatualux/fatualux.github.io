@@ -9,4 +9,4 @@ slug = "projects"
 
 [![ScrappyBot](../../images/scrappybot.png)](https://gitlab.com/fatualux/scrappybot)
 
-[![Pygen-Calendar](../../images/pygen_cal.png)](https://gitlab.com/fatualux/pygen-calendar)
+[![Pygen-Calendar](../../images/pygen-cal.png)](https://gitlab.com/fatualux/pygen-calendar)
