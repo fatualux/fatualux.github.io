@@ -10,3 +10,7 @@ slug = "projects"
 [![ScrappyBot](../../images/scrappybot.png)](https://gitlab.com/fatualux/scrappybot)
 
 [![Pygen-Calendar](../../images/pygen-cal.png)](https://gitlab.com/fatualux/pygen-calendar)
+
+[![Py-Solaredge](../../images/py-solaredge.png)](https://github.com/fatualux/py-solaredge)
+
+[![Solaredge-bot](../../images/solaredge-bot.png)](https://github.com/fatualux/solaredge-bot)
