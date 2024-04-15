@@ -3,14 +3,11 @@ title = "Projects"
 slug = "projects"
 +++
 
-[![IT-notes](../../images/itnotes.png)](https://fatualux.github.io/it-notes/)
-
-[![Git-Helper](../../images/githelper.png)](https://github.com/fatualux/git_helper/)
-
-[![ScrappyBot](../../images/scrappybot.png)](https://gitlab.com/fatualux/scrappybot)
-
-[![Pygen-Calendar](../../images/pygen-cal.png)](https://gitlab.com/fatualux/pygen-calendar)
-
-[![Py-Solaredge](../../images/py-solaredge.png)](https://github.com/fatualux/py-solaredge)
-
-[![Solaredge-bot](../../images/solaredge-bot.png)](https://github.com/fatualux/solaredge-bot)
+|  | LINK | ABOUT |
+|---|------|-------|
+| ![IT-notes](../../images/itnotes.png) | [IT-notes](https://fatualux.github.io/it-notes/) | Notes about IT. |
+| ![Git-Helper](../../images/githelper.png) | [Git-Helper](https://github.com/fatualux/git_helper/) | A little helper for Git. |
+| ![ScrappyBot](../../images/scrappybot.png) | [ScrappyBot](https://gitlab.com/fatualux/scrappybot) | Small project based on Raspberry Pi. |
+| ![Pygen-Calendar](../../images/pygen-cal.png) | [Pygen-Calendar](https://gitlab.com/fatualux/pygen-calendar) | An HTML calendar generator written in Python. |
+| ![Py-Solaredge](../../images/py-solaredge.png) | [Py-Solaredge](https://gitlab.com/fatualux/py-solaredge) | Simple application based on Solaredge API. |
+| ![Solaredge-bot](../../images/solaredge-bot.png) | [Solaredge-bot](https://gitlab.com/fatualux/solaredge-bot) | Telegram bot based on Solaredge API. |
