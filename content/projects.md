@@ -11,3 +11,4 @@ slug = "projects"
 | ![Pygen-Calendar](../../images/pygen-cal.png) | [Pygen-Calendar](https://gitlab.com/fatualux/pygen-calendar) | An HTML calendar generator written in Python. |
 | ![Py-Solaredge](../../images/py-solaredge.png) | [Py-Solaredge](https://gitlab.com/fatualux/py-solaredge) | Simple application based on Solaredge API. |
 | ![Solaredge-bot](../../images/solaredge-bot.png) | [Solaredge-bot](https://gitlab.com/fatualux/solaredge-bot) | Telegram bot based on Solaredge API. |
+| ![RPI-Bot](../../images/rpi-bot.png) | [RPI-Bot](https://gitlab.com/fatualux/rpi-bot) | Telegram bot for interaction with Raspberry Pi or other hardware. |
