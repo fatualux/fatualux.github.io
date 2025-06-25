@@ -16,7 +16,7 @@ author = "Francesco Zubani"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Francesco Zubani's personal website"
 keywords = "developer,personal"
-info = ["Personal profile", " and projects"]
+info = ["Personal profile"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "@fatualux"
 dateFormat = "January 2, 2006"
@@ -93,11 +93,6 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
-
-[[languages.en.menu.main]]
 name = "Contact me"
 weight = 5
 url = "contact/"
@@ -116,11 +111,6 @@ keywords = "profilo, curriculum"
 name = "About"
 weight = 1
 url = "about/"
-
-[[languages.it-it.menu.main]]
-name = "Progetti"
-weight = 3
-url = "projects/"
 
 [[languages.it-it.menu.main]]
 name = "Contatti"
